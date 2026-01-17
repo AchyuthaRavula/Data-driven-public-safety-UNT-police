@@ -8,7 +8,9 @@ This project delivers a data-driven analytics solution for the **University of N
 
 ## 🎥 Project Demo Video
 
-https://www.linkedin.com/posts/achyutha-ravula_businessanalytics-powerbi-dataanalytics-activity-7407663127913435136-JERE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbTHrYBW1cNE8q6F1323rUFdfDoywWJFzY
+Click the image below to watch a short walkthrough of the dashboard and key insights.
+
+[![Watch Demo](images/demo_thumbnail.png)](https://www.linkedin.com/posts/achyutha-ravula_businessanalytics-powerbi-dataanalytics-activity-7407663127913435136-JERE/)
 
 ---
 
