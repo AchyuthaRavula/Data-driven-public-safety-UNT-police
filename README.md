@@ -3,6 +3,7 @@
 **Business Analytics Capstone Project | Power BI**
 
 This project delivers a data-driven analytics solution for the **University of North Texas Police Department**, designed to support operational planning, crime analysis, and community engagement through interactive dashboards.
+
 ---
 
 ## 🎥 Project Demo Video
